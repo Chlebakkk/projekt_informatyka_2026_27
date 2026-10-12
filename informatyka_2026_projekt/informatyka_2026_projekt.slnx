@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="informatyka_2026_projekt/informatyka_2026_projekt.vcxproj" />
+</Solution>
