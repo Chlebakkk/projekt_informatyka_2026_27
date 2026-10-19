@@ -3,3 +3,5 @@
 Temat projektu: gra
 Autor: Hubert Małaczek
 Labolatorium informatyki 2026/27
+
+Dodaję zmianę dla zadania 4
